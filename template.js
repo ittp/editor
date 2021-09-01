@@ -9,6 +9,9 @@ const data = {
   }
 }
 
+let td = [
+  { id: 0, key: "", device: { uid: "", serial: "", inventory: "", unique: "000-000123", title: "" }, description: "" }
+]
 
 var header = {}
 
