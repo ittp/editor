@@ -1,5 +1,12 @@
+var header = {}
+
+
+
+var table = {}
+
 var blocks = []
 
+var config = []
 var template = {
 time: 1556098174501,
 blocks: [
@@ -13,7 +20,7 @@ data: {
 },
 {
 type: "table",
-content: {}
+  content: {}
 }
 ],
 version: "2.12.4"
