@@ -1,16 +1,16 @@
-const data = []
+const data = {
+  contract: { id: "0172200002520000325_28416", date: "09.02.2021", via: "СПб ГУП «СПб ИАЦ»"  },
+  
+}
 
 
 var header = {}
-
-
 
 var table = {}
 
 var blocks = []
 
 var config = []
-
 
 
 var template = {
