@@ -1,3 +1,6 @@
+const data = []
+
+
 var header = {}
 
 
@@ -7,6 +10,9 @@ var table = {}
 var blocks = []
 
 var config = []
+
+
+
 var template = {
 time: 1556098174501,
 blocks: [
